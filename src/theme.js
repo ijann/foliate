@@ -28,6 +28,10 @@ const defaultThemes = [
         fg_color: '#5b4636', bg_color: '#efe7dd', link_color: 'darkcyan',
     },
     {
+        theme_name: _('Smoke'), dark_mode: false, invert: false,
+        fg_color: '#505050', bg_color: '#A2A2A2', link_color: 'darkcyan',
+    },
+    {
         theme_name: _('Gray'), dark_mode: true, invert: false,
         fg_color: '#ccc', bg_color: '#555', link_color: 'skyblue',
     },
